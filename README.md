@@ -1,6 +1,5 @@
 # QuizSound
 クイズの効果音サウンドが鳴る
-
 Made with Unity
 
 # 素材
