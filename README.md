@@ -1,12 +1,14 @@
 クイズの効果音アプリ
 ====
 
-<img src="https://user-images.githubusercontent.com/17407690/45928467-193d4e00-bf7f-11e8-8355-c82eda61d309.jpg" width="30%">
-
 ## Description
 
 クイズの正解と不正解の音が鳴るだけのアプリ
 Made with Unity
+
+## Image
+
+<img src="https://user-images.githubusercontent.com/17407690/45928467-193d4e00-bf7f-11e8-8355-c82eda61d309.jpg" width="30%">
 
 ## Licence
 
